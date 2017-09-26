@@ -1,0 +1,25 @@
+header{
+    font-family: 'Montserrat', sans-serif;
+	background-image: url("../images/1920x1080.png");
+    height: 40em;
+	color: #fff;
+	text-align: center;
+	display: block;
+}
+
+.parallax{
+	position: relative;
+	background-attachment: fixed;
+	background-position: center;
+    background-repeat: no-repeat;
+}
+
+.bild{
+    background-image: url("../images/1920x1080.png");
+    display: block;
+    height: 500px;
+}
+
+.div{
+    height: 400px;
+}
